@@ -1,0 +1,11 @@
+{
+  "context": {
+    "fileName": [
+        "docs/ai/ARCHITECTURAL_STANDARDS.md",
+        "docs/ai/CODE_QUALITY_CHECKLIST.md",
+        "docs/ai/FRONTEND_UI_UX.md",
+        "docs/ai/STATE_AND_DATA_FLOW.md",
+        "docs/ai/SUPABASE.md"
+    ]
+  }
+}
